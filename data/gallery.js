@@ -2,7 +2,7 @@ const GALLERY = [
   {
     title: "self portrait no. 1",
     artist: "Honey Raut",
-    file: "honey.png",      // filename in assets/gallery/
+    file: "honey_self_portrait.png",      // filename in assets/gallery/
     medium: "digital",
     github: "honeyraut"
   },
