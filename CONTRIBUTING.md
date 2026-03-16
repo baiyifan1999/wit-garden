@@ -36,11 +36,11 @@ git checkout -b add-YOUR-NAME
 Draw anything — paper and phone camera, Excalidraw, Procreate, the Notes app, whatever.
 Save/export it as a PNG or JPG and drop it into:
 ```
-assets/members/yourname.png
+assets/gallery/yourname.png
 ```
 Keep the filename lowercase with no spaces (e.g. `maya-chen.png`).
 
-### 6. Add your entry to `data/members.js`
+### 6. Add your entry to `data/gallery.js`
 Open the file and copy the example block. Fill in your own info:
 
 ```js
