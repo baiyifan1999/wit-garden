@@ -30,4 +30,12 @@ const GALLERY = [
     medium: "digital",
     github: "aloonsballoons"
   },
+
+  {
+    title: "Flower",
+    artist: "Yifan Bai",
+    file: "yifan_flower.png",      
+    medium: "digital",
+    github: "baiyifan1999"
+  },
 ];
